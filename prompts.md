@@ -11,6 +11,6 @@ Napisi mi funkciju koja se zove get_student_info koja prima name tipa str i year
 Dodaj mi na kraj ovog fajla definiciju za klasu Course koja ima atribute name(str), code(str), i credits(int) i metodom description() koja vraca string kao
 "TK207 - Razvoj telekomunikacijske programske podrške (6 kredita)".
 
-##Bonus zadatak
+## Bonus zadatak
 
 Kako mogu sortirati listu
